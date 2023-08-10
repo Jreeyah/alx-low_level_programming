@@ -7,11 +7,11 @@
 
 int main(void)
 {
-	char forchar;
-	int forint;
-	long forlong;
-	long long forlonglong;
-	float forfloat;
+char forchar;
+int forint;
+long forlong;
+long long forlonglong;
+float forfloat;
 printf("size of a char: %lu byte(s)\n", sizeof(forchar));
 printf("Size of an int: %lu byte(s)\n", sizeof(forint));
 printf("Size of a long int: %lu byte(s)\n", sizeof(forlong));
